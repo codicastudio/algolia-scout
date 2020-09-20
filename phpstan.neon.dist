@@ -17,3 +17,4 @@ parameters:
         - '#Casting to string something that#'
         - '#Unsafe usage of new static#'
         - '#Method Algolia\\ScoutExtended\\Console\\Commands\\OptimizeCommand::handle\(\) has no return typehint specified.#'
+        - '#Call to an undefined method Illuminate\\Support\\HigherOrderCollectionProxy::pushSoftDeleteMetadata\(\)#'
