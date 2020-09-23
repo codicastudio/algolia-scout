@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/algoliascout",
+    "name": "codica-studio/algoliascout",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/algoliascout",
+    "homepage": "https://github.com/codica-studio/algoliascout",
     "license": "MIT",
     "authors": [
         {
