@@ -1,5 +1,5 @@
 {
-    "name": "codica-studio/algolia-scout",
+    "name": "codicastudio/algolia-scout",
     "description": "A random Codica Studio package.",
 
     "homepage": "https://github.com/codicastudio/algolia-scout",
@@ -21,7 +21,6 @@
         "illuminate/database": "^8.0",
         "illuminate/filesystem": "^8.0",
         "illuminate/support": "^8.0",
-        "laravel/legacy-factories": "^1.0",
         "laravel/scout": "^8.0",
         "riimu/kit-phpencoder": "^2.4"
     },
@@ -43,7 +42,7 @@
             "vendor/mockery/mockery/library/helpers.php"
         ]
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
